@@ -1,5 +1,7 @@
 C# developer from Russia
 
+![](https://github-readme-stats.vercel.app/api?username=ibowie&show_icons=true&theme=radical)
+
 ----
 
 Current projects:
