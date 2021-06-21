@@ -1,12 +1,12 @@
 C# developer from Russia
 
-![](https://github-readme-stats.vercel.app/api?username=ibowie&show_icons=true&theme=radical)
+[![](https://github-readme-stats.vercel.app/api?username=ibowie&show_icons=true&theme=radical)](https://github.com/iBowie)
 
 ----
 
 Current projects:
 
-![Open](https://github-readme-stats.vercel.app/api/pin/?username=ibowie&repo=BowieD.Unturned.NPCMaker&theme=radical)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ibowie&repo=BowieD.Unturned.NPCMaker&theme=radical)](https://github.com/iBowie/BowieD.Unturned.NPCMaker)
 
 - [Asset Expander for Unturned RocketMod](https://github.com/iBowie/BowieD.Unturned.AssetExpander)
 
