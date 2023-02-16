@@ -15,7 +15,7 @@ Current projects:
 Projects in development:
 some of them are private right now, may introduce more as they get closer to release
 
-- [NPC Maker for Unturned (.NET Rewrite)](https://github.com/iBowie/BowieD.Unturned.NPCMakerNET)
+(none to display yet)
 
 ----
 
@@ -25,4 +25,5 @@ If you want to reach out to me:
 ----
 
 If you want to support me:
-- Patreon [(Support)](https://www.patreon.com/bowied)
+- ~~Patreon [(Support)](https://www.patreon.com/bowied)~~
+- Boosty [(Support)](https://boosty.to/bowied)
